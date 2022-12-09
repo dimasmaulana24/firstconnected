@@ -1,1 +1,1 @@
-web: firstconnected/main.go
+web: main.go
