@@ -1,1 +1,1 @@
-web: bin/firstconnected-mgb
+web: firstconnected/main.go
